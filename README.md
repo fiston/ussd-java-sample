@@ -7,7 +7,8 @@ community to get an application running on USSD technology.
 <p>
 To be able to run this application one needs to have the Eclipse Java EE installed because the project is an eclipse
 project. The project name is UssdSample. S/He also needs to have at least Apache Tomcat Web container installed on her/his workstation. The only library
-that is required to download is the google-gson library that does not have any particular dependency except the JDK.
+that is required to download is the google-gson library that does not have any particular dependency except the JDK. 
+<p><i>You can find the google-gson jar file in the resource folder</i></p>
 </p>
 <p>
 Once these tools are set, you only need to download the source code from here and import it as project into your eclipse
